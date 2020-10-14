@@ -8,6 +8,11 @@
 
 title: A lazy approach to Machine Learning
 description: Learning Data Science and Improving every day!!
+url: https://bluzeey.github.io
+avatar: /avatar.jpeg
+paginate: 5
+permalink: pretty
+cover_image: /bg.jpeg
 github_username: bluzeey
 
 # Email and twitter are optional:
