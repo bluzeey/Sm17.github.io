@@ -4,4 +4,4 @@ An independent blog sharing tips , tricks and how to's of Data Science and Pytho
 
 ## Blogs to Data Science
 
-
+[Learning Data Science the right way !!](15-10-2020-myfirstpost.md)
