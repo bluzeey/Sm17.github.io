@@ -24,7 +24,7 @@ use_math: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
   - jekyll-gist
