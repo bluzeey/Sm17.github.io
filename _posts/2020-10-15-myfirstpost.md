@@ -1,4 +1,4 @@
-# Changes in methods of learning and How I learn :
+# <span style=color:Coral>Changes in methods of learning and How I learn :
 ## Doing without Thinking :
 Well , well , before you jump to any conclusions what I mean by the same , isn't that you shouldn't do coding if you don't know the same . Coding is the art of exploring and experimenting. What I mean by the same , is try to understand how every single line affects the working of a program . I had started exploring Machine Learning by doing Kaggle Learn Courses. However , all I did was to somehow solve the guided tutorial without going into depth of how it works and now I regret the same . 
 
